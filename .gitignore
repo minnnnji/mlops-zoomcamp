@@ -21,6 +21,9 @@ sdist/
 var/
 wheels/
 share/python-wheels/
+mlruns/
+artifacts/
+mlflow.db
 *.egg-info/
 .installed.cfg
 *.egg
